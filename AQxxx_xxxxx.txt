@@ -1,0 +1,16 @@
+AQxxx
+
+xxxxx
+
+Missing:
+KJ10
+
+							A 			Q
+1)	KJ10		-			4			4
+2)	KJ 			10			4			5
+3)	K10 		J			4			5		
+4)	J10			K 			5			4
+5)	10 			KJ0 		4			4
+6)	J 			K10 		4 			4
+7)	K 			J10 		5 			5
+8) 	- 			KJ10 		3  			3
